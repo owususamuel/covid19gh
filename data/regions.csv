@@ -1,0 +1,18 @@
+﻿Regions,Cases,Recovered/Discharged,% Recovered/Discharged,Active Cases
+Ahafo,36,11,30.6,25
+Ashanti,4972,4011,80.7,912
+Bono,96,34,35.4,62
+Bono East,142,142,100,0
+Central,1071,835,78,230
+Eastern,907,749,826,154
+Greater Accra,12948,9875,76.3,3012
+Northem,186,159,85.5,23
+North East,9,7,77.8,1
+Oti,114,102,89.5,12
+Savannah,50,39,78,11
+Upper East,278,275,98.9,1
+Upper West,70,58,82.9,12
+Volta,375,330,88,44
+Western,2051,1913,93.3,137
+Western North,158,82,51.9,76
+TOTAL,"23,463","18,662",79.4,"4,712"
